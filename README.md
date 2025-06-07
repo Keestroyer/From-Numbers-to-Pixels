@@ -26,31 +26,35 @@ Launch a simple dashboard to explore the games:
 ```bash
 streamlit run main.py
 ```
+
 📁 Folder Structure
 
+```
 From-Numbers-to-Pixels/
-
 ├── main.py                 # Streamlit UI launcher
-
 ├── game_files/             # Python files demonstrating math concepts
-
 │   ├── calculus.py
-
 │   ├── fractals.py
 │   ├── optimization.py
 │   ├── prob.py
 │   └── vector.py
 ├── images/                 # Image assets (used in probability game)
 │   ├── dice1.png
-│   └── ... dice6.png
+│   ├── ... 
+│   └── dice6.png
 ├── Math In Game.pptx       # Presentation slide deck
 ├── Report.pdf              # Final project report
 └── README.md               # This file
+```
+---
 
 📄 Documentation
+
 📘 Report.pdf: Contains the project background, objective, and methodology.
 
 🎥 Math In Game.pptx: Presentation deck used to explain the project.
+
+---
 
 📃 License
 This project is for academic and educational use. Feel free to fork and modify it for your learning purposes.
