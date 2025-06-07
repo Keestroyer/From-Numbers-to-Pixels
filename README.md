@@ -29,9 +29,13 @@ streamlit run main.py
 📁 Folder Structure
 
 From-Numbers-to-Pixels/
+
 ├── main.py                 # Streamlit UI launcher
+
 ├── game_files/             # Python files demonstrating math concepts
+
 │   ├── calculus.py
+
 │   ├── fractals.py
 │   ├── optimization.py
 │   ├── prob.py
