@@ -1,4 +1,3 @@
-# From-Numbers-to-Pixels
 
 ## 🎮 From Numbers to Pixels: A Mathematical Approach to Game Design
 
