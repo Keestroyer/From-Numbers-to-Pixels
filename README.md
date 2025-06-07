@@ -27,7 +27,7 @@ Launch a simple dashboard to explore the games:
 streamlit run main.py
 ```
 
-📁 Folder Structure
+###📁 Folder Structure:
 
 ```
 From-Numbers-to-Pixels/
@@ -48,7 +48,7 @@ From-Numbers-to-Pixels/
 ```
 ---
 
-📄 Documentation
+###📄 Documentation:
 
 📘 Report.pdf: Contains the project background, objective, and methodology.
 
